@@ -1,0 +1,1 @@
+<livewire:v-a-component />
